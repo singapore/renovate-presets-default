@@ -1,0 +1,22 @@
+{
+  "name": "renovate-presets-default",
+  "version": "0.1.0",
+  "description": "Default Presets for Renovate",
+  "main": "index.js",
+  "scripts": {
+    "test": "jsonlint package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rarkins@github.com/singapore/renovate-presets-default.git"
+  },
+  "author": "Rhys Arkins <rhys@arkins.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singapore/renovate-presets-default/issues"
+  },
+  "homepage": "https://github.com/singapore/renovate-presets-default#readme",
+  "devDependencies": {
+    "jsonlint": "1.6.2"
+  }
+}
